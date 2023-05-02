@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "(lldb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/main",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb"
+    }
+
+  ]
+}
+
+/*
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/seanfite/Desktop/_/Bellevue College/CS/CS/VS Code/Assignment 5",
+      "program": "/Users/seanfite/Desktop/_/Bellevue College/CS/CS/VS Code/Assignment 5/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+*/

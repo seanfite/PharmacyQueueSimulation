@@ -1,0 +1,6 @@
+wendy 1 8
+varik 6 3
+terry 6 2
+veron 6 2
+lucas 3 5
+kim 3 2
