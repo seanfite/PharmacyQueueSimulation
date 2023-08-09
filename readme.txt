@@ -1,6 +1,7 @@
-Sean Fite
-Spent around 10 hours on this
-My simulation destructor leaks, I also have trouble getting proper output when the start time of the first
-transaction is not 0.
+#PharmacyQueueSimulation
+
+The program uses a queue data structure to represent the patient queue at the pharmacy. Patients are enqueued based on their arrival times, and the pharmacy serves them in a first-come, first-served manner. The simulation tracks patient wait times and provides insights into the efficiency of the pharmacy's service.
+
+
 
  
