@@ -94,7 +94,7 @@ void Simulation::step()										// step through simulation
 			current_transaction = vehicles_list->get(0);
 			current_transaction.set_start_time(current_time + 1);
 		}
-	}
+	} 
 	current_time++;
 }
 

@@ -1,5 +1,5 @@
 all: test
-
+ 
 CXX = g++
 override CXXFLAGS += -g -Wno-everything
 

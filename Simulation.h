@@ -7,7 +7,7 @@
 #include "ArrayQueue.h"
 
 using namespace std;
-
+ 
 class Simulation
 {
 

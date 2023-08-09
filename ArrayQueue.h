@@ -7,7 +7,7 @@ using namespace std;
 template<class Type>
 class ArrayQueue
 {
-	//private:
+	//private: 
 	public:
 		int _capacity = 20;
 		int _size;

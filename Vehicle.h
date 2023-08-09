@@ -6,7 +6,7 @@
 using namespace std;
 
 class Vehicle
-{
+{ 
     public:
     //private:
 		string _name;

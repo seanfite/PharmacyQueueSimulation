@@ -13,6 +13,6 @@ int main()
 		cout << "====================================================" << endl;
 	}
 
-	delete simulation;
+	delete simulation; 
 	return 0;
 }

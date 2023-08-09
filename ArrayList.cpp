@@ -6,7 +6,7 @@
 /*
 Sean Fite
 Data Structures
-Assignment 5
+Assignment 5 
 */
 
 template <class Type>

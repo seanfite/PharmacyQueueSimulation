@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-template<class Type>
+template<class Type> 
 class ArrayList
 {
 	public:
